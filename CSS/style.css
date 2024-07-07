@@ -213,3 +213,40 @@ main section{
 .resume-btn{
     margin-top: 69px;
 }
+
+/* footer */
+footer{
+    display: flex;
+    padding: 130px 230px;
+    gap: 117px;
+}
+.footer-column{
+    width: 50%;
+}
+.connect-section-description{
+    font-size: 16px;
+    color: #474747;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.social-icon-speacing{
+    margin: 0 10px;
+}
+.input-textarea-style{
+    display: block;
+    border-radius: 5px;
+    background-color: #ffff;
+    color: #757575;
+    width: 100%;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+}
+footer input{
+    height: 64px;
+    
+}
+footer textarea{
+    height: 182px;
+}
